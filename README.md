@@ -1,4 +1,4 @@
-#Age duration calculator
+# Age duration calculator
 
 This is python program which will ask you to enter your birthday, current date, day and print your:
 
